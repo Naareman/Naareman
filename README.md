@@ -6,8 +6,6 @@ Most of my work sits in the uncomfortable middle — where business problems are
 
 I help translate **real business and policy problems into data and AI systems that actually work** — and back again into decisions leaders can act on.
 
----
-
 ## What I focus on
 
 I’m most interested in problems where things tend to break:
@@ -20,8 +18,6 @@ I’m most interested in problems where things tend to break:
 
 I care less about models in isolation, and more about **whether systems survive contact with reality**.
 
----
-
 ## Writing & thinking in public
 
 I write openly while exploring problems — often before they’re fully “finished”.
@@ -33,8 +29,6 @@ On Substack, I write about:
 - Lessons from building and diagnosing real systems  
 
 🔗 https://substack.com/@naremandarwish
-
----
 
 ## Selected projects
 
